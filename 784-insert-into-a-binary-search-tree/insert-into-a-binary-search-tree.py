@@ -8,4 +8,4 @@ class Solution:
         else:
             root.right = self.insertIntoBST(root.right, val)
 
-        return root
+        return root 
